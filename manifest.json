@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "HATOYA KOŞUYORUM",
+  "short_name": "HATOYA",
+  "description": "Güzelyalı'dan Balçova'ya, yaban domuzlarının arasından aşkına koş.",
+  "lang": "tr",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "any",
+  "background_color": "#1b0f2e",
+  "theme_color": "#1b0f2e",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "icons/wide.jpg", "sizes": "1280x720", "type": "image/jpeg", "form_factor": "wide", "label": "HATOYA KOŞUYORUM" },
+    { "src": "cover.jpg", "sizes": "1080x1350", "type": "image/jpeg", "form_factor": "narrow", "label": "Oyun kapağı" }
+  ]
+}
